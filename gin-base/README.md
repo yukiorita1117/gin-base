@@ -1,4 +1,4 @@
-## About gin
+# About gin
 This is a very light framework, unlike the full stack framework.
 
 ## Install
